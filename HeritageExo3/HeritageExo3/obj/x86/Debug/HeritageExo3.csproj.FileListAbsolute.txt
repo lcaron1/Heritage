@@ -1,0 +1,4 @@
+U:\SIO2\SLAM4\HeritageExo3\HeritageExo3\bin\Debug\HeritageExo3.exe
+U:\SIO2\SLAM4\HeritageExo3\HeritageExo3\bin\Debug\HeritageExo3.pdb
+U:\SIO2\SLAM4\HeritageExo3\HeritageExo3\obj\x86\Debug\HeritageExo3.exe
+U:\SIO2\SLAM4\HeritageExo3\HeritageExo3\obj\x86\Debug\HeritageExo3.pdb
